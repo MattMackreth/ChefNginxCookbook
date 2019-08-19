@@ -22,8 +22,7 @@ verifier:
 
 platforms:
   - name: ubuntu/xenial64
-  - name: centos-7
-
+  
 suites:
   - name: default
     verifier:
